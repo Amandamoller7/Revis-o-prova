@@ -3,9 +3,10 @@
     color: rgb(134, 134, 134);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
+    
 }
 #navebar  h1{
     color: black;
+    display: flex;justify-content: center; 
 }
-
 
